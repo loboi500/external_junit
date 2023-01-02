@@ -1,0 +1,13 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+build.gradle filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_EPL filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+NOTICE.txt filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+README.version filter=lfs diff=lfs merge=lfs -text
+CleanSpec.mk filter=lfs diff=lfs merge=lfs -text
+epl-v10.html filter=lfs diff=lfs merge=lfs -text
+LICENSE-junit.txt filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+version filter=lfs diff=lfs merge=lfs -text
